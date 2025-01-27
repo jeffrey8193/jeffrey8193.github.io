@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gpgp/gpgp.jpg
+image: img/gpgp/gpgp1.jpg
 title: "Technology and the Great Pacific Garbage Patch"
 date: 2024
 published: true
