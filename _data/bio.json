@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java" ]
+      "keywords": [ "C", "C++", "Java", "Python" ]
     },
   ],
   "education": [
@@ -38,29 +38,28 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Kozo Sushi",
+      "position": "Kitchen Staff",
+      "website": "kozosushihawaii.com",
+      "startDate": "2023-07-01",
+      "endDate": "2024-08-01",
+      "summary": "Managed the front and was part of the kitchen staff. Regularly helped take inventory.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain day to day activities and restaurant functions", 
+        "Trained new employees in both clerk and kitchen positions"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        ""
       ]
     }
   ],
