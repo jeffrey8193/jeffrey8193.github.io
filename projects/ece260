@@ -1,0 +1,13 @@
+---
+layout: project
+type: project
+image: img/7segment.jpg
+title: "Interface and Database"
+date: 2023
+published: true
+labels:
+  - Verilog
+summary: "Using Verilog, designed a digital circuit to display scrolling text for the final project in ECE 260."
+---
+
+Verilog is a hardware description language (HDL) that models electronic systems, it is often used to design digital circuits. For this project, I designed a circuit that would display a scrolling text on multiple 7 segment displays. The specific phrase that was chosen for this demonstration was "HELLO" because each letter is representable in a 7 segment display. After designing the circuit I utilized Verilog to verify that the circuit functions correctly and fix any mistakes made in circuit design. This project combined skills from ECE 260 such as circuit design, knowledge of electronic systems, and logic, with coding prowess with HDLs like Verilog.
