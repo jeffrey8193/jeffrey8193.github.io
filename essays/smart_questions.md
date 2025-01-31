@@ -10,7 +10,7 @@ labels:
   - Coding
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Stack_Overflow_icon.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Stack_Overflow_icon.jpg">
 
 ## Introduction
 
@@ -26,7 +26,7 @@ The responses were effective because the user described the steps they took. The
 
 ## [Bad Example](https://stackoverflow.com/questions/79394250/pygame-error-zink-vkcreateinstance-failed-vk-error-incompatible-driver-need)
 
-<img width="300px" class="rounded float-start pe-4" src="../img/bad_example.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/bad_example.png">
 In this question, the user asks for troubleshooting help with an incompatible driver error with vulkan. The question is open-ended and not specific because they are asking for next steps they can take to troubleshoot the problem. In the subject matter, they don't provide much details about what program they are running, their operating system, and other relevant information. The only information they provide is the output they get which is unnecessary as their question already contains the error they are getting. They don't describe the chronological steps they have taken, just a list of solutions they have attempted. 
 The responses are correspondingly not helpful to solving the user's problem. The responses illustrate the need to provide code for users to replicate the problem and to better understand the issue. One of the respondents asks for more information such as operating system and graphics driver. If the user provided those details they might have gotten more helpful information on what their issue might be.
 
