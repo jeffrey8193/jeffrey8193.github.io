@@ -19,14 +19,7 @@ When looking for help in an online forum, it is important to be able to ask the 
 
 ## Good Example
 
-```cpp
-I am currently trying to develop my vulkan based graphics engine on my laptop (MacBook Pro with Intel Iris Pro GPU). I started this project on my desktop PC (Windows with NVIDIA GTX 1080 ti GPU). This works flawlessly on my desktop PC. But when I try building and executing this on my laptop, the executable fails trying to create the vulkan instance and returns "VK_ERROR_INCOMPATIBLE_DRIVER" as a VkResult.
-
-Disclaimer: I am new to c++, and I am aware that the following code does not conform to most c++ coding conventions. I am trying to make my code as readable as possible so I can learn better.
-
-I am trying to create a new vulkan instance with the following code:
-
-```
+<img width="400px" class="rounded float-start pe-4" src="../img/good_example.png">
 In this [example of a good question](https://stackoverflow.com/questions/72789012/why-does-vkcreateinstance-return-vk-error-incompatible-driver-on-macos-despite) by user "Chribit", they are asking for help with resolving an incompatible driver error with vulkan. The question header includes the error and troubleshooting steps they have already taken. In their subject matter they explain the steps they took, they say that the executable works on their PC but not their Macbook, they provide the relevant code they are using to create a vulkan instance, and they describe the problem which is the executable doesn't create a vulkan instance. 
 This is a smart question because the user outlines what specific issue they are having and provides details about their hardware system, operating system, and their C++ code. The subject matter shows that the user has attempted to fix the problem themselves through steps like confirming their GPU is compatible. They also describe the steps they took chronologically which can be helpful to solving the problem. 
 The responses also reflect the smartness of this question. The responses are able to narrow down the cause to be a change in a newer version of SDK. Then the respondent gives specific steps on how to resolve the issue. 
