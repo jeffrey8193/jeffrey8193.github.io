@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "ESLint and Following Coding Standards"
+title: "Following Coding Standards With ESLint"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
 published: true
