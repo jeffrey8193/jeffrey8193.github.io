@@ -21,6 +21,7 @@ Websites made with HTML can often be made with just the HTML programming languag
 
 <p float="left">
   <img width="500px" class="rounded p-4" src="../img/ui_design_frameworks/breadshop_bootstrap.png"> Bootstrap Version
+  <br>
   <img width="500px" class="rounded p-4" src="../img/ui_design_frameworks/breadshop_no_bootstrap.png"> Without Bootstrap Version
 </p>
 <br>
