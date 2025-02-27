@@ -19,11 +19,10 @@ Websites made with HTML can often be made with just the HTML programming languag
 
 ## Breadshop with and without Bootstrap
 
-<img width="750px" class="rounded float-start pe-4" src="../img/ui_design_frameworks/breadshop_bootstrap.png">
-Bootstrap Version
-<img width="750px" class="rounded float-start pe-4" src="../img/ui_design_frameworks/breadshop_no_bootstrap.png">
-Without Bootstrap Version
-
+<p float="left">
+  <img width="100" class="rounded float-start pe-4" src="../img/ui_design_frameworks/breadshop_bootstrap.png"> Bootstrap Version
+  <img width="100" class="rounded float-start pe-4" src="../img/ui_design_frameworks/breadshop_no_bootstrap.png"> Without Bootstrap Version
+</p>
 <br>
 
 The above images are my attempts at recreating the Breadshop website. One was made with the help of Bootstrap and the other with just HTML and CSS. One of the biggest differences between the two was the .css stylesheet portion. The stylesheet for the Bootstrap version was much shorter than the without Bootstrap version because I was writing classes for each portion of the website in the without Bootstrap version. In the end the navigation bar, logo, schedule, and location portion each had at least one class that was mainly used to format the website. Something else that wasn't implemented in this recreation was things like menus which would be a lot easier to do with Bootstrap since they offer library support for designing menus. The main difference was the time spent writing the stylesheet and debugging to make it look like the actual website. All in all, I found Bootstrap easier to work with for this specific task, I expect these benefits will be even more apparent when making user interface elements since that is what Bootstrap's primary support is for.
