@@ -19,8 +19,12 @@ Websites made with HTML can often be made with just the HTML programming languag
 
 ## Breadshop with and without Bootstrap
 
-<img width="750px" class="rounded float-start pe-4" src="../img/ui_design_frameworks/breadshop_bootstrap.png"> Bootstrap Version
-<img width="750px" class="rounded float-start pe-4" src="../img/ui_design_frameworks/breadshop_no_bootstrap.png"> Without Bootstrap Version
+<img width="750px" class="rounded float-start pe-4" src="../img/ui_design_frameworks/breadshop_bootstrap.png">
+<br>  
+Bootstrap Version
+<img width="750px" class="rounded float-start pe-4" src="../img/ui_design_frameworks/breadshop_no_bootstrap.png">
+<br>  
+Without Bootstrap Version
 
 <br>
 
