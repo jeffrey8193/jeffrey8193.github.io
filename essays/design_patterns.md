@@ -10,7 +10,7 @@ labels:
   - Database
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Stack_Overflow_icon.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/design_patterns.jpg">
 
 ## Design Patterns
 
@@ -22,4 +22,4 @@ Since there are many examples of design pattern implementations in languages, li
 
 ## Conclusions
 
-Analyzing these two questions helped me understand the importance of doing your own research as well as being concise and detailed in the specific problem that you have. If you do research by yourself, you get an understanding of the kind of specific kind of question/issue you have. This allows you to provide more relevant and concise information which will help you get more helpful answers. In addition, if you convey the solutions you've attempted and the steps you've taken, it will narrow it down for other users which will also get a better answer. 
+Design patterns are important to learn because it allows you to write forward thinking code. You can apply the same concepts to multiple problems and understand the advantages and disadvantages of your approach. While implementations depend on coding language, what libraries you use, database structure and relationships, among other things, design patterns have served to be applicable to many problems and beneficial to learn about.
