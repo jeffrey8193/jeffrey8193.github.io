@@ -4,7 +4,7 @@ type: essay
 title: "TypeScript and Athletic Software Development"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-23
-published: true
+published: false
 labels:
   - Coding
 ---

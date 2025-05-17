@@ -4,7 +4,7 @@ type: essay
 title: "Why Should We Consider Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-24
-published: true
+published: false
 labels:
   - Coding
   - Database
